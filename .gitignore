@@ -1,0 +1,13 @@
+.pytest_cache
+.python-version
+live/main.py
+live/Keys.py
+live/.DS_Store
+live/templates/.DS_Store
+venv
+.coverage
+.DS_Store
+
+__pycache__
+.idea
+.coverage
